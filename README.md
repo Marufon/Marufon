@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **ericqlee@yahoo.com**
 
-- ⚡ Fun fact **Life has a wealth of knowledge, find your passion and never settle.**
+- ⚡ Fun fact **Life has a wealth of knowledge <br>
+find your passion and never settle.** <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
