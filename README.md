@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Boss Door](https://didikim.itch.io/boss-door)
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **Game Systems**
 
 - 📫 How to reach me **ericqlee@yahoo.com**
 
